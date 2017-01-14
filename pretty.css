@@ -83,14 +83,14 @@ blockquote {
   padding: 15px;
   background-color: rgba(0, 0, 0, 0.3);
   color: #e1e1e1;
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 22px;
   line-height: 28px;
 }
 
 blockquote cite {
   display: block;
-  font: 18px/23px 'Nunito Sans', sans-serif;
+  font: 18px/23px 'Roboto', sans-serif;
   font-size: 16px;
   margin-top: 16px;
   color: #cccccc;
@@ -101,13 +101,13 @@ blockquote cite {
 #choose {
   color: orange;
   font-size: 30px;
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 #choose1 {
   color: white;
   font-size: 25px;
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 .table {
